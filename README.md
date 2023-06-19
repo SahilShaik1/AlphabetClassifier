@@ -1,5 +1,6 @@
 # AlphabetClassifier
 Alphabet Classifier made on Kaggle
+
 Uses Machine Learning to make a basic Neural Network
 
 
